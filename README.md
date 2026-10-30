@@ -4,6 +4,8 @@
 - Materia: Modelado de Sistemas — Semestre Feb-Jun 2026  
 - Versión: MVP 1.0
 
+un saludo a claude
+
 ## Descripción
 
 **Innovación MX** es una plataforma que conecta empresas generadoras de residuos industriales con empresas recicladoras, transportistas y ciudadanos interesados en el impacto ambiental.
